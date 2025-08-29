@@ -5,12 +5,27 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<h2>Invited Talks</h2>
 
-{% endif %}
+<ul>
+  <li>
+    <strong>Making Use of Computational Tools for Language Documentation</strong><br>
+    with Shobhana L. Chelliah<br>
+    International Training Program on Computational Linguistics, Guwahati University<br>
+    August 2025
+  </li>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+  <li>
+    <strong>Balancing Multilabel Datasets for Effective Hate Speech Detection: A Study on Gab</strong><br>
+    Clingding, Computational Linguistics Lab, Indiana University – Bloomington<br>
+    February 2025
+  </li>
+
+  <li>
+    <strong>Dependency-Informed Attention for Multilingual Grammar Error Correction</strong><br>
+    Clingding, Computational Linguistics Lab, Indiana University – Bloomington<br>
+    December 2024
+  </li>
+</ul>
