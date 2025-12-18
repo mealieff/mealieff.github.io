@@ -22,7 +22,7 @@ repository               : "mealieff/mealieff.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Melissa Lieffers"
   pronouns         : "she/her"  
   bio              : "her research focuses on natural language processing, speech and intonation modeling, and the ethical and social dimensions of AI"
@@ -50,7 +50,7 @@ author:
   # Social media
   goodreads        : # Username
   google_plus      : # Username
-  linkedin         : # Username
+  linkedin         : "melissa-lieffers"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
