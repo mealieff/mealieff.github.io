@@ -75,13 +75,6 @@ Natural language processing for under-resourced languages, speech processing, et
 - *"Balancing Multilabel Datasets for Effective Hate Speech Detection: A Study on Gab"*, Clingding Lab, IU, Feb 2025  
 - *"Dependency-Informed Attention for Multilingual Grammar Error Correction"*, Clingding Lab, IU, Dec 2024  
 
-### Reviewing
-- Workshop on Online Abuse and Harms (WOAH) [1]
-- Linguistic Annotation Workshop (LAW)[1] ACL 2025
-- International Conference on Computational Linguistics (COLING) [1] 2024 
-
-### Service
-- Judge, Women's Research Poster Competition, CEW&T, IU – Apr 2025  
 
 ---
 

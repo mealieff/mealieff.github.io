@@ -25,3 +25,4 @@ author_profile: true
 
 - **HISP 105: Accelerated Basic Language I**  
   Department of Spanish and Portuguese (Fall 2019, Spring 2020)
+
