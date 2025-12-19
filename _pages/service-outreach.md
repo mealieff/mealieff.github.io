@@ -7,6 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
+## Talks
+
+### Invited Talks
+
+- **Making Use of Computational Tools for Language Documentation**  
+  with Shobhana L. Chelliah  
+  International Training Program on Computational Linguistics, Guwahati University  
+  August 2025
+
+### Presentations
+
+- **Balancing Multilabel Datasets for Effective Hate Speech Detection: A Study on Gab**  
+  Clingding, Computational Linguistics Lab, Indiana University – Bloomington  
+  February 2025
+
+- **Dependency-Informed Attention for Multilingual Grammar Error Correction**  
+  Clingding, Computational Linguistics Lab, Indiana University – Bloomington  
+  December 2024
+
+---
+
 ## Reviewing
 
 - **Workshop on Online Abuse and Harms (WOAH)** [1]
