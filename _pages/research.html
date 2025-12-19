@@ -1,0 +1,73 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+## Publications
+
+### Preprint
+
+*Coming soon...*
+
+### Peer-Reviewed Publications
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h3>{{ category[1].title }}</h3>
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+---
+
+## Invited Talks
+
+<ul>
+  <li>
+    <strong>Making Use of Computational Tools for Language Documentation</strong><br>
+    with Shobhana L. Chelliah<br>
+    International Training Program on Computational Linguistics, Guwahati University<br>
+    August 2025
+  </li>
+</ul>
+
+---
+
+## Presentations
+
+<ul>
+  <li>
+    <strong>Balancing Multilabel Datasets for Effective Hate Speech Detection: A Study on Gab</strong><br>
+    Clingding, Computational Linguistics Lab, Indiana University – Bloomington<br>
+    February 2025
+  </li>
+
+  <li>
+    <strong>Dependency-Informed Attention for Multilingual Grammar Error Correction</strong><br>
+    Clingding, Computational Linguistics Lab, Indiana University – Bloomington<br>
+    December 2024
+  </li>
+</ul>
+

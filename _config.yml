@@ -23,9 +23,8 @@ repository               : "mealieff/mealieff.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Melissa Lieffers"
-  pronouns         : "she/her"  
-  bio              : "her research focuses on natural language processing, speech and intonation modeling, and the ethical and social dimensions of AI"
+  name             : "Melissa Lieffers"  
+  bio              : "here \"a unas pocas leguas del hexágono en que nací.\""
   location         : "Bloomington, IN"
   employer         : "Indiana University Bloomington"
   email            : "mealieff@iu.edu" 
@@ -35,7 +34,6 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "https://orcid.org/0009-0009-9517-7127"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 

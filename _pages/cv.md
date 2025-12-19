@@ -15,14 +15,14 @@ Luddy School of Informatics, Computing, and Engineering
 Indiana University - Bloomington  
 
 Bloomington, IN 47405  
-📞 616-481-1705 • ✉️ mealieff@iu.edu  
+✉️ mealieff@iu.edu  
 🔗 [GitHub](https://github.com/mealieff)
 
 ---
 
 ### Education
 - **Ph.D.,Computer Science**, Indiana University, Bloomington – *current*  
-- **M.A., Computational Linguistics**, Indiana University, Bloomington – *current*  
+- **M.A., Computational Linguistics**, Indiana University, Bloomington – *December 2025*  
 - **M.A., Hispanic Literature**, Indiana University, Bloomington – *May 2021*  
 - **B.A., summa cum laude, Applied Linguistics & Spanish**, Union University, Jackson, TN – *May 2018*
 
@@ -50,16 +50,6 @@ Natural language processing for under-resourced languages, speech processing, et
 - **Machine Learning:** PyTorch, Hugging Face, TensorFlow, Gensim  
 - **NLP:** NLTK, spaCy, NumPy, Apertium, Kaldi  
 - **Annotation Tools:** Praat, ELAN, TLex, FLEx  
-
-### Relevant Coursework
-LING L-555: Intro to Programming for CL  
-LING L-545: Natural Language Processing  
-LING L-543: Advanced Computational Syntax  
-LING L-615: Corpus Linguistics  
-LING L-645: Advanced NLP  
-LING L-665: Machine Learning for NLP  
-LING L-715: Data Modeling for NLP; Hate Speech Detection; User-facing Language Technology; Speech Processing  
-ILS Z-639: Social Media Data Mining  
 
 ### Awards & Fellowships
 - Pol-IU-Glot Award – Distinguished Scholar Program • Apr 2025  
