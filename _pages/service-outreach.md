@@ -29,8 +29,8 @@ author_profile: true
 ---
 
 ## Reviewing
-
-- **Workshop on Online Abuse and Harms (WOAH)** [1]
+- **International Conference on Language Resources and Evaluation** (LREC) [1] 2025
+- **Workshop on Online Abuse and Harms (WOAH)** [1] ACL 2025
 - **Linguistic Annotation Workshop (LAW)** [1] ACL 2025
 - **International Conference on Computational Linguistics (COLING)** [1] 2024
 

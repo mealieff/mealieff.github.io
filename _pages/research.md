@@ -13,17 +13,10 @@ author_profile: true
 **Balancing Multilabel Datasets for Effective Hate Speech Detection: A Study on Gab**  
 Working on improving hate speech detection models through better dataset balancing techniques, with a focus on multilabel classification challenges. This project addresses ethical AI concerns in content moderation systems.
 
-### Multilingual Grammar Error Correction
-**Dependency-Informed Attention for Multilingual Grammar Error Correction**  
-Developing neural models that leverage syntactic dependency information to improve grammar error correction across multiple languages, with particular attention to under-resourced languages.
 
 ### Language Documentation Tools
 **Making Use of Computational Tools for Language Documentation**  
 Collaborating with Dr. Shobhana Chelliah on developing and applying computational tools for language documentation, particularly for endangered and under-resourced languages. This work combines my interests in computational linguistics and language preservation.
-
-### Language Conservancy Internship
-**Computational Linguistics for Language Preservation**  
-Working as a Computational Linguist Intern at The Language Conservancy, developing tools and resources to support language documentation and preservation efforts for indigenous languages.
 
 ### Online Conspiracy Theory Research
 **Countering Online Networked Conspiracy Theories (CONNECT)**  
