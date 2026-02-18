@@ -11,5 +11,4 @@ I am first-year PhD in Computer Science under the supervision of [Dr. Thai Le](h
 
 Prior to my PhD, I completed an M.A. in Computational Linguistics through the [Computational Linguistics program](https://cl.indiana.edu/) at Indiana University, where I was advised by [Dr. Sandra Kübler](https://linguistics.indiana.edu/about/faculty/kubler-sandra.html) and received significant mentorship from [Dr. Shobhana Chelliah](https://linguistics.indiana.edu/about/faculty/chelliah-shobhana.html) and [Dr. Shuju Shi](https://linguistics.indiana.edu/about/faculty/shuju-shi.html). 
 
-You will notice my background extends multiple discliniplinary traditions. For more on my journey to CS.
 
